@@ -6,7 +6,9 @@
 
 #### 测试结果
 * JSONModel耗时2.111259秒
+![Mou icon](http://ww2.sinaimg.cn/mw1024/800cdf9cgw1eon4umfixxj215a0lcdqo.jpg)
 * MJExtension耗时0.100171秒
+![Mou icon](http://ww4.sinaimg.cn/mw1024/800cdf9cgw1eon4uome5rj21a00mu12j.jpg)
 ```
-JSONModel和MJExtension有20倍的性能差距
+在这次的测试中，JSONModel和MJExtension有20倍的性能差距
 ```
